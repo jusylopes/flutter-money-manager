@@ -9,7 +9,7 @@ Nele é possível cadastrar todas as suas despesas e todas as suas receitas, arm
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661490006.png?raw=true) ![Mobile 2](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489822.png?raw=true) ![Mobile 3](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489935.png?raw=true) ![Mobile 4](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489944.png?raw=true) 
+![Mobile 1](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661490006.png?raw=true) ![Mobile 2](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489822.png?raw=true) ![Mobile 3](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489935.png?raw=true) 
 
 ### Tecnologias utilizadas
 
