@@ -1,6 +1,6 @@
 # Money Manager
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-todo-list/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-money-manager/blob/main/LICENSE) 
 
 ## Sobre o projeto
 
