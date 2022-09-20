@@ -1,16 +1,29 @@
-# expenses
+# Money Manager
 
-A new Flutter project.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-money-manager/blob/main/LICENSE) 
 
-## Getting Started
+## Sobre o projeto
 
-This project is a starting point for a Flutter application.
+App gerenciador de dinheiro, desenvolvido em Flutter com provider + testes unitários.
+Nele é possível cadastrar todas as suas despesas e todas as suas receitas, armazenando-as localmente no celular.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout mobile
+![Mobile 1](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661490006.png?raw=true) ![Mobile 2](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489822.png?raw=true) ![Mobile 3](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489935.png?raw=true) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias utilizadas
+
+* Flutter
+* Provider
+* Testes Unitários
+
+
+### Desenvolvedora
+
+Jusy Lopes
+https://www.linkedin.com/in/jusylopes
+
+
+
+
+
