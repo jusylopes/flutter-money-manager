@@ -1,4 +1,4 @@
-# Money Manager
+# 💵 Money Manager
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-money-manager/blob/main/LICENSE) 
 
@@ -9,7 +9,12 @@ Nele é possível cadastrar todas as suas despesas e todas as suas receitas, arm
 
 
 ## Layout mobile
-![Mobile 1](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661490006.png?raw=true) ![Mobile 2](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489822.png?raw=true) ![Mobile 3](https://github.com/jusylopes/flutter-money-manager/blob/main/assets/images/Screenshot_1661489935.png?raw=true) 
+<p>
+<img src="screenshots/Screenshot_1663676380.png" width="20%">
+<img src="screenshots/Screenshot_1663676427.png" width="20%">
+<img src="screenshots/Screenshot_1663676473.png" width="20%">
+<img src="screenshots/Screenshot_1663676480.png" width="20%">
+</p>
 
 ### Tecnologias utilizadas
 
